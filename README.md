@@ -118,4 +118,4 @@ You can change the information that will be displayed on the Food Truck tables b
         "longitude": false,
         "location_2": false
     }
-```# SF_FoodTrucks
+```
