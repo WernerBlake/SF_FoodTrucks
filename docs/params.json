@@ -1,0 +1,34 @@
+{
+    "SORT": {
+        "applicant": "ASC"
+    },
+    "RENAME": {
+        "applicant": "NAME",
+        "location": "ADDRESS"
+    },
+    "Data": {
+        "dayorder": false,
+        "dayofweekstr": false,
+        "starttime": false,
+        "endtime": false,
+        "permit": false,
+        "location": true,
+        "locationdesc": false,
+        "optionaltext": false,
+        "locationid": false,
+        "start24": false,
+        "end24": false,
+        "cnn": false,
+        "addr_date_create": false,
+        "addr_date_modified": false,
+        "block": false,
+        "lot": false,
+        "coldtruck": false,
+        "applicant": true,
+        "x": false,
+        "y": false,
+        "latitude": false,
+        "longitude": false,
+        "location_2": false
+    }
+}
