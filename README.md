@@ -1,4 +1,4 @@
-# redfinWS
+# SF_FoodTrucks
 Display list of all food trucks currently open in the Bay Area!
 
 ## Quick Overview:
